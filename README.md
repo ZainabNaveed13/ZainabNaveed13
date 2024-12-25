@@ -29,6 +29,8 @@ I’m an undergraduate Data Science student with a deep passion for **AI**, **ma
 - 🖥️ Building foundational knowledge in cloud-based data solutions.
 - 📈 Data visualization projects with interactive and dynamic reporting.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZainabNaveed23&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 🤝 **Looking to Collaborate**
 - Machine Learning model development
 - Data visualization and analytics
